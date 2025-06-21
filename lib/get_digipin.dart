@@ -9,7 +9,7 @@ import 'digipin_entry.dart';
 import 'digipin_storage.dart';
 
 const String googleApiKey =
-    'AIzaSyADF9ckfOSf1YJlYIm6-yW2jpZZ4Ol9SJU'; // <-- Replace with your API key
+    'YOUR_API_KEY'; // <-- Replace with your API key
 
 class GetDigipinPage extends StatefulWidget {
   @override
